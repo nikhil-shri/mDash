@@ -1,0 +1,1 @@
+Add line number 23 and line number 79 in platform.txt
