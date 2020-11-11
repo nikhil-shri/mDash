@@ -18,7 +18,7 @@
 
 #define WIFI_NETWORK "ROGPHONE2"
 #define WIFI_PASSWORD "Nikhil555"
-#define DEVICE_PASSWORD "qk91yCk99g8JaOu0Zvd8M91Yg"
+#define DEVICE_PASSWORD "DEVICEID"
 
 void setup() {
   Serial.begin(115200);
